@@ -1,3 +1,4 @@
 class Fish
-  attr_writer
+  attr_reader :name
+  
 end
