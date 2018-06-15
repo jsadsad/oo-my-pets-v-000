@@ -1,5 +1,6 @@
 class Owner
   attr_accessor :pets, :name
+  OW
   
   def initialize(species)
     @species = species
