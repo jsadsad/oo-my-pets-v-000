@@ -23,7 +23,8 @@ class Owner
   end
   
   def feed_fish
-    pets[:fishes].each do
+    pets[:fishes].each do |fish|
+      
   end
   
   def walk_dogs
