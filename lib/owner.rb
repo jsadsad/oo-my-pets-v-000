@@ -19,7 +19,7 @@ class Owner
   end
   
   def say_species
-    
+    "I am a {"
   end
   
   def feed_fish
