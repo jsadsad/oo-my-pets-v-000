@@ -24,7 +24,7 @@ class Owner
   
   def feed_fish
     pets[:fishes].each do |fish|
-      
+      fish.mood = 
   end
   
   def walk_dogs
